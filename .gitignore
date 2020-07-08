@@ -1,0 +1,7 @@
+.idea
+.vscode
+.metals
+
+target
+project/target
+project/metals.sbt
